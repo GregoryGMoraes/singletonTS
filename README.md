@@ -1,7 +1,8 @@
 # SingletonTS
+Trabalho sobre padrões de projeto - método utilizado será Singleton em TypeScript
 ## Link para o Video de Apresentação 
 <a>https://www.loom.com/share/657f4e3c617d4f17bf4b0355cd629013</a>
-Trabalho sobre padrões de projeto - método utilizado será Singleton em TypeScript
+
 
 ## Singleton em TypeScript
 
