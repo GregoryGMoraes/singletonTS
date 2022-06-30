@@ -1,4 +1,4 @@
-# singletonTS
+# SingletonTS
 Trabalho sobre padrões de projeto - método utilizado será Singleton em TypeScript
 
 ## Singleton em TypeScript
